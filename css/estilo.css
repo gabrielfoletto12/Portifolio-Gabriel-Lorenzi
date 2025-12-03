@@ -87,7 +87,7 @@ h2 {
 }
 
 .form-group label {
-    color: var(--text-tertiary);
+    color: var(--text-color);
     margin-bottom: 0.3em;
     font-weight: bold;
 }
@@ -241,9 +241,6 @@ h2 {
 
 }
 
-.project-description ul li:last-child{
-    font-weight: bold;
-}
 
 /*FOOTER*/
 
